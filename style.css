@@ -1,0 +1,47 @@
+body {
+	background-color: #C0C0C0;
+	background-image: url("/images/kavamug.jpg");
+    background-size:   cover;                      
+    background-repeat: no-repeat;
+    background-position: center center;           
+}
+.navbar {
+	
+}
+.logo {
+	height: 100%
+	width: 100%;
+}
+.topnav_products {
+	font-family: monospace;
+	color: #fff;
+	font-size: 20px;
+}
+
+.footer {
+	position: absolute;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	padding: 10px;
+	text-align: center;
+}
+
+.footer ul li {
+	float: auto;
+	margin: auto;
+	color: #FFFFFF;
+	font-family: monospace;
+	padding-left: 1px;
+	list-style: none;
+}
+
+.footer a {
+	float: right;
+	text-align: center;
+	
+	padding: 3px;
+	cursor: hand;
+	font-family: monospace;
+	color: #FFFFFF;
+}
